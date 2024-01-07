@@ -1,0 +1,60 @@
+Departure City: Нью-Йорк
+Arrival City: Лос-Анджелес
+Business Class: true
+First Class: false
+Layover: false
+
+Departure City: Нью-Йорк
+Arrival City: Сидней
+Business Class: true
+First Class: true
+Layover: true
+
+Departure City: Нью-Йорк
+Arrival City: Лос-Анджелес
+Business Class: true
+First Class: false
+Layover: false
+
+Departure City: Нью-Йорк
+Arrival City: Лос-Анджелес
+Business Class: false
+First Class: false
+Layover: false
+
+Departure City: Нью-Йорк
+Arrival City: Лос-Анджелес
+Business Class: false
+First Class: false
+Layover: false
+
+Departure City: Нью-Йорк
+Arrival City: Лос-Анджелес
+Business Class: false
+First Class: true
+Layover: false
+
+Departure City: Нью-Йорк
+Arrival City: Лос-Анджелес
+Business Class: false
+First Class: true
+Layover: false
+
+Departure City: Лондон
+Arrival City: Дубай
+Business Class: true
+First Class: true
+Layover: true
+
+Departure City: Нью-Йорк
+Arrival City: Москва
+Business Class: true
+First Class: true
+Layover: false
+
+Departure City: Нью-Йорк
+Arrival City: Москва
+Business Class: true
+First Class: true
+Layover: true
+
